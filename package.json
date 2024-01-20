@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/awoken-bible/reference.git"
+    "url": "git@github.com:the-jack-cox/awoken-bible-nextjs.git"
   },
   "keywords": [
     "bible",
